@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## Uso
-Sigue los pasos del artículo correspondiente en [Construyendo Tu Propia Red Neuronal desde Cero]() para aprender cómo programar una red neuronal desde cero. El código fuente está completamente comentado para ayudarte a comprender cada paso.
+Sigue los pasos del artículo correspondiente en [Construyendo Tu Propia Red Neuronal desde Cero](https://andersonmeza.com/programar-red-neuronal-desde-cero) para aprender cómo programar una red neuronal desde cero. El código fuente está completamente comentado para ayudarte a comprender cada paso.
 
 ## Contribuciones
 ¡Contribuciones y mejoras son bienvenidas! Si encuentras errores, tienes sugerencias o deseas agregar características adicionales puedes hacerlo.
